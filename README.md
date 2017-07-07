@@ -1,5 +1,3 @@
-A simple program that uses Laplacian edge detection and bilateral filters in OpenCV to "cartoonify" a webcamera's stream.
-
 # Compiling
 
  To compile go to the `cartoonifier_desktop` directory on your terminal and run:
@@ -28,3 +26,12 @@ When the program is running, just press enter to take a photo from the webcam wi
 # Example
 
 ![](example_image.jpg)
+
+# Next steps
+
+Further ideas for this project include:
+    - Allowing an individual photo (or multiple photos) to be cartoonified.
+    - Adding more filters.
+    - Creating a sister Android application.
+
+If you have any ideas for this project and wish to collaborate then feel free to make a pull request!
