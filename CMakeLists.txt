@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 2.8)
 project(CartoonifierDesktop)
 find_package(OpenCV REQUIRED)
 SET(SRC
-    main_desktop.cpp
-    cartoon.cpp
+    src/main_desktop.cpp
+    src/cartoon.cpp
 )
 include_directories(${OpenCV_INCLUDE_DIRS})
 add_executable(CartoonifierDesktop ${SRC})
