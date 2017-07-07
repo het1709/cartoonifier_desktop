@@ -30,6 +30,7 @@ When the program is running, just press enter to take a photo from the webcam wi
 # Next steps
 
 Further ideas for this project include:
+
     - Allowing an individual photo (or multiple photos) to be cartoonified.
     - Adding more filters.
     - Creating a sister Android application.
