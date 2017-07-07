@@ -21,7 +21,9 @@ This uses the default webcam detected by OpenCV (webcam number 0). If you have m
 ```
 opens the program with webcam 1. If webcam 1 doesn't exist, then it'll open with the default webcam.
 
-When the program is running, just press enter to take a photo from the webcam with the filter applied.
+When the program is running, just press Enter to take a photo from the webcam with the filter applied.
+
+Press Esc to exit the program.
 
 # Example
 
@@ -35,4 +37,4 @@ Further ideas for this project include:
     - Adding more filters.
     - Creating a sister Android application.
 
-If you have any ideas for this project and wish to collaborate then feel free to make a pull request!
+If you have any ideas for this project and wish to collaborate then feel free to submit a pull request!
